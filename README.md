@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shadushazzz
+- 👋 Hi, I’m @shadab
 - 👀 I’m interested in developing
 - 🌱 I’m currently learning web components
 - 📫 How to reach me shadabhussain598@gmail.com
